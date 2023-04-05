@@ -19,3 +19,23 @@
 @import url(../blocks/explosions/fireExplosion.css);
 @import url(../blocks/explosions/smokeExplosion.css);
 @import url(../blocks/projectile/projectile.css);
+
+body{
+   
+   background-color: rgb(124, 37, 37);
+}
+
+.navbar{
+    color:rgb(200, 194, 194);
+   /* height:3rem; */
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 2rem;
+    background-color: black;
+}
+
+.navbar h1{
+    margin:0
+
+}
+
